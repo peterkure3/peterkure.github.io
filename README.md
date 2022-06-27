@@ -1,2 +1,2 @@
-# peterkure.io
+# peterkure.github.io
 Github pages repository.
